@@ -84,7 +84,6 @@ public class Main {
             year = year +79;
         }
         System.out.println("Задача 8 Часть 2 ");
-
         for (int y = 1;y<11;y++){
             System.out.println("2*" + y + "=" + y*2);
         }
